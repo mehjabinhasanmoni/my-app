@@ -7,10 +7,13 @@ const page = () => {
     return (
         <div style={{backgroundColor:"blue",height:"100vh"}}>
             Hello about
+            Testing
         </div>
+        
     );
 };
 
 // Test
+
 
 export default page;
