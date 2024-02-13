@@ -8,6 +8,7 @@ const page = () => {
         <div style={{backgroundColor:"red",height:"100vh"}}>
             Hello about
             Testing
+            
         </div>
         
     );
