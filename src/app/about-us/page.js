@@ -1,4 +1,5 @@
 "use client"
+import Link from "next/link";
 import { useState } from "react";
 
 
@@ -8,7 +9,7 @@ const page = () => {
         <div style={{backgroundColor:"blue",height:"300px"}}>
             Hello about
             Testing
-
+        <Link></Link>
             
         </div>
         
